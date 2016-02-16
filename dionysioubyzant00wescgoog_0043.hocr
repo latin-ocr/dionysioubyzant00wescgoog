@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./dionysioubyzant00wescgoog_0043.png"; bbox 0 0 4282 6368; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 442 1986 1461 2104">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 442 1986 1461 2104">
+     <span class='ocr_line' id='line_1_1' title="bbox 442 1986 1461 2104; baseline -0.003 0"><span class='ocrx_word' id='word_1_1' title='bbox 442 1988 922 2104; x_wconf 84' lang='grc' dir='ltr'>ΔΙΟΝΥΣΙΟΥ</span> <span class='ocrx_word' id='word_1_2' title='bbox 969 1986 1461 2101; x_wconf 83' lang='grc' dir='ltr'>ΒΥΖΑΝΤΙΟΥ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 589 2235 1311 2315">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 589 2235 1311 2315">
+     <span class='ocr_line' id='line_1_2' title="bbox 589 2235 1311 2315; baseline -0.008 0"><span class='ocrx_word' id='word_1_3' title='bbox 589 2238 924 2315; x_wconf 79' lang='grc' dir='ltr'><strong>ΑΝΑΠΛΟΥΣ</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 963 2235 1311 2313; x_wconf 83' lang='grc' dir='ltr'><strong>ΒΟΣΠΟΡΟΥ.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 654 2716 1253 2815">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 654 2716 1253 2815">
+     <span class='ocr_line' id='line_1_3' title="bbox 654 2716 1253 2815; baseline -0.002 -3"><span class='ocrx_word' id='word_1_5' title='bbox 654 2721 930 2815; x_wconf 86' lang='lat' dir='ltr'>DIONYSH</span> <span class='ocrx_word' id='word_1_6' title='bbox 973 2716 1253 2811; x_wconf 86' lang='grc' dir='ltr'>ΒΥΖΑΝΤΙΙ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 546 2958 1350 3029">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 546 2958 1350 3029">
+     <span class='ocr_line' id='line_1_4' title="bbox 546 2958 1350 3029; baseline -0.004 -1"><span class='ocrx_word' id='word_1_7' title='bbox 546 2962 650 3028; x_wconf 78' lang='lat' dir='ltr'>PER</span> <span class='ocrx_word' id='word_1_8' title='bbox 685 2960 995 3029; x_wconf 83' lang='lat' dir='ltr'>BOSPORUM</span> <span class='ocrx_word' id='word_1_9' title='bbox 1032 2958 1350 3028; x_wconf 73' lang='lat' dir='ltr'><strong>NAVIGATIO.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 2146 6368">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 2146 6368">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2146 6368; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 2146 6368; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
